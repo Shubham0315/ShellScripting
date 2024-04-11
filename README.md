@@ -8,5 +8,9 @@ Linux Shell Scripts
 Here, even if we try to change the value of variable, it outputs default value as it is assigned as readonly (doesn't change)
 <img width="778" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/be1315a5-234d-4451-9011-34d9c5516ac5">
 
+3. Array and its functions
+<img width="744" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/9b1445bf-6341-4562-a9e1-65eccc005316">
+
+
 
 
