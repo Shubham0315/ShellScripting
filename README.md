@@ -6,6 +6,7 @@ Linux Shell Scripts
 
 2. Readonly Variables
 Here, even if we try to change the value of variable, it outputs default value as it is assigned as readonly (doesn't change)
-<img width="704" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/62dad69b-d49a-41b9-b8cc-943c9b855d58">
+<img width="778" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/be1315a5-234d-4451-9011-34d9c5516ac5">
+
 
 
