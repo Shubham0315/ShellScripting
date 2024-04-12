@@ -34,6 +34,10 @@ Using user defined variables
 Ask user which input to get
 <img width="776" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/e73cc7af-aa25-4f7b-bb20-7321632d371d">
 
+10. Logical Operators
+<img width="767" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/fc43f2ea-fcc8-44c3-a71c-54b365aa0b6d">
+
+
 
 
 
