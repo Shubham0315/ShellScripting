@@ -23,6 +23,22 @@ Shows how to change case of string, replace a string, slice a string
 <img width="755" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/589ade53-2db0-426d-8b3c-7e87bd7fddee">
 <img width="733" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/c4086bca-8975-4f9d-887e-9213fe76b38e">
 
+7. Arithmetic calculations
+Using user defined variables
+<img width="734" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/0fccd887-a096-4234-b2d8-192345f752db">
+
+8. If elif statement
+<img width="778" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/633eff30-fde0-463e-bd69-cf1459f2fbb5">
+
+9. Switch case
+Ask user which input to get
+<img width="776" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/e73cc7af-aa25-4f7b-bb20-7321632d371d">
+
+
+
+
+
+
 
 
 
