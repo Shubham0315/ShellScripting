@@ -37,6 +37,10 @@ Ask user which input to get
 10. Logical Operators
 <img width="767" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/fc43f2ea-fcc8-44c3-a71c-54b365aa0b6d">
 
+11. Ternary operator (Execute condition 2 only if 1 is true else execute 3rd)
+<img width="776" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/e7869b4d-1004-483b-a2ee-220412cf3c74">
+
+
 
 
 
