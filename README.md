@@ -40,7 +40,11 @@ Ask user which input to get
 11. Ternary operator (Execute condition 2 only if 1 is true else execute 3rd)
 <img width="776" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/e7869b4d-1004-483b-a2ee-220412cf3c74">
 
+12. For loop to print the sequence
+<img width="761" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/81044cc4-dd74-4261-b794-1f651757bfbf">
 
+13. For loop for Getting values from File. Take inout values from file and print them
+<img width="772" alt="image" src="https://github.com/Shubham0315/ShellScripting/assets/105341138/c0bea0de-fd2b-47df-aa29-a3506139e3e8">
 
 
 
