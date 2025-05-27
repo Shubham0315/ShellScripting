@@ -1,4 +1,4 @@
-- Environment variables are dynamic values that affect the behavious of processes running on system.
+- Environment variables are dynamic values that affect the behaviour of processes running on system.
 - They provide a way to pass information from shell to processes when they are created
 
 **- Command :- echo $EnvVar**
