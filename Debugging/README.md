@@ -1,5 +1,5 @@
 - Debugging shell scripts means identifying and fixing errors in them.
-- Proper debuggingtechniques can help you locate issues quickly and efficiently.
+- Proper debugging techniques can help you locate issues quickly and efficiently.
 - Two common techniques for debugging shell scripts are printing/debugging techniques and using set -x and set -e
 
   1. Printing/debugging techniques
